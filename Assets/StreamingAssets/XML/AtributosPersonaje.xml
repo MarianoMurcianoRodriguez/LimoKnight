@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<AtributosPersonajeDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AtributosPersonajes>
+    <AtributosPersonaje>
+      <TypeKnight>BaseKnight</TypeKnight>
+      <ActualLevel>0</ActualLevel>
+      <Experience>0</Experience>
+      <Constitution>3</Constitution>
+      <Dexterity>2</Dexterity>
+      <Power>3</Power>
+      <Agility>1</Agility>
+      <Luck>1</Luck>
+      <IncreaseByLevel>
+        <float>3</float>
+        <float>1</float>
+        <float>3</float>
+        <float>2</float>
+        <float>1</float>
+      </IncreaseByLevel>
+    </AtributosPersonaje>
+  </AtributosPersonajes>
+</AtributosPersonajeDatabase>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<AtributosEnemigoDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EstadisticasEnemigo>
+    <AtributosEnemigo>
+      <EnemyType>NormalFly</EnemyType>
+      <Constitution>10</Constitution>
+      <Power>0</Power>
+      <Agility>0</Agility>
+      <Defense>2</Defense>
+      <Experience>12</Experience>
+      <IncreaseByLevel>
+        <float>0</float>
+        <float>0</float>
+        <float>0</float>
+        <float>0</float>
+      </IncreaseByLevel>
+    </AtributosEnemigo>
+  </EstadisticasEnemigo>
+</AtributosEnemigoDatabase>

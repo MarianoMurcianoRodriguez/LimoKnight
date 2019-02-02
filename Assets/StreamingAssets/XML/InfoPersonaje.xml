@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<InfoPersonajeDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InfoPersonajes>
+    <InfoPersonaje>
+      <NameKnight>BaseKnight</NameKnight>
+      <TypeKnight>BaseKnight</TypeKnight>
+      <History>Desde pequeño este limo ha sido maltratado y apaleado, todo en su vida era tristeza y un deseo insatisfecho de grandeza. Hasta que un dia encontró una rústica armadura y comenzo asi historia.</History>
+      <Unlocked>True</Unlocked>
+    </InfoPersonaje>
+    <InfoPersonaje>
+      <NameKnight>SpeedKnight</NameKnight>
+      <TypeKnight>SpeedKnight</TypeKnight>
+      <History>Desde pequeño este limo ha sido maltratado y apaleado, todo en su vida era tristeza y un deseo insatisfecho de grandeza. Hasta que un dia encontró una rústica armadura y comenzo asi historia.</History>
+      <Unlocked>False</Unlocked>
+    </InfoPersonaje>
+    <InfoPersonaje>
+      <NameKnight>MisteriousKnight</NameKnight>
+      <TypeKnight>MisteriousKnight</TypeKnight>
+      <History>Desde pequeño este limo ha sido maltratado y apaleado, todo en su vida era tristeza y un deseo insatisfecho de grandeza. Hasta que un dia encontró una rústica armadura y comenzo asi historia.</History>
+      <Unlocked>False</Unlocked>
+    </InfoPersonaje>
+    <InfoPersonaje>
+      <NameKnight>KingKnight</NameKnight>
+      <TypeKnight>KingKnight</TypeKnight>
+      <History>Desde pequeño este limo ha sido maltratado y apaleado, todo en su vida era tristeza y un deseo insatisfecho de grandeza. Hasta que un dia encontró una rústica armadura y comenzo asi historia.</History>
+      <Unlocked>False</Unlocked>
+    </InfoPersonaje>
+  </InfoPersonajes>
+</InfoPersonajeDatabase>
